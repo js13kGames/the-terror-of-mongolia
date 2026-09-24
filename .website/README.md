@@ -1,4 +1,8 @@
 ---
+genres:
+  - roguelike
+  - shooter
+  - action
 post: https://dev.to/jacklehamster/the-terror-of-mongolia-js13k-post-mortem-part-1-33a4
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
